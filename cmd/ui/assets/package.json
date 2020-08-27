@@ -33,7 +33,7 @@
     "@ng-bootstrap/ng-bootstrap": "^1.0.4",
     "@swimlane/ngx-datatable": "^11.1.2",
     "@types/node": "^6.0.92",
-    "ajv": "^6.4.0",
+    "ajv": "^6.12.3",
     "angular": "^1.6.5",
     "angular2-json-schema-form": "^0.7.0-alpha.1",
     "angular2-notifications": "^0.9.6",
